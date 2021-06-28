@@ -49,4 +49,4 @@ Songs:
 		- You Know, One Has to Build Some Tension to Make These Executions Satisfying to Watch and Everything
 
 
-Some of hese songs use samples from the Sonatina Symphonic Orchestra which can be found [here](https://github.com/peastman/sso) the sound for playing these samples is based on [code by Robin Newman](https://rbnrpi.wordpress.com/2016/03/16/sonatina-symphonic-orchestra-revisited-to-give-55-sample-voices-for-sonic-pi/). Some of hese songs require [Petal](https://github.com/siaflab/petal).
+Some of these songs use samples from the Sonatina Symphonic Orchestra which can be found [here](https://github.com/peastman/sso) the sound for playing these samples is based on [code by Robin Newman](https://rbnrpi.wordpress.com/2016/03/16/sonatina-symphonic-orchestra-revisited-to-give-55-sample-voices-for-sonic-pi/). Some of hese songs require [Petal](https://github.com/siaflab/petal).
