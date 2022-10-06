@@ -1,5 +1,5 @@
 # Eschatology
-Source code for the album Eschatology. To run any songs, use [Sonic Pi](https://sonic-pi.net/) and first edit and run config.rb. You can find a recorded version of this album [here](https://beguiledbyguillotining.bandcamp.com/album/eschatology).
+Source code for the album Eschatology. To run any songs, use [Sonic Pi](https://sonic-pi.net/) and first edit and run config.rb. You can find a recorded version of this album [here](https://junber.bandcamp.com/album/eschatology).
 
 Songs:
 - Act 1:
